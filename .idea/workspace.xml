@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e36b25bb-9b81-4366-960c-3a2f2183b58f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Greenerwayprojects/bess_calculator_trial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Greenerwayprojects/bess_calculator_trial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Greenerwayprojects/peak_shave_ver1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Greenerwayprojects/peak_shave_ver1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject6/calculator_interface.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject6/command_commission_results.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject6/greenerway_ps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject6/time_of_use_of_device.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2v7rdvw2JHFXPu29mf6In8ETFhL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.create_knowledge_base.executor": "Run",
+    "Python.use_knowledge_base.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="create_knowledge_base" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Mental-Health-Chatbot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\utlan\PycharmProjects\Mental-Health-Chatbot\create_knowledge_base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e36b25bb-9b81-4366-960c-3a2f2183b58f" name="Changes" comment="" />
+      <created>1743507044214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743507044214</updated>
+    </task>
+    <servers />
+  </component>
+</project>
