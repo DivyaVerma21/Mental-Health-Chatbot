@@ -1,0 +1,8 @@
+user: What are common signs of anxiety?
+assistant: Common signs of anxiety include physical signs such as headache, muscle tension, back pain, abdominal pain, tremulousness or "shakiness", fatigue, numbness, shortness of breath, palpitations, and sweating. Psychological signs include anxiety, panic, thought disorganization, emotional distress expressed as agitation, fatigue, impaired sleep, and impaired appetite.
+
+---
+user: What are common signs of anxiety?
+assistant: Common signs of anxiety include physical signs such as headache, muscle tension, back pain, abdominal pain, tremulousness or "shakiness", fatigue, numbness, shortness of breath, palpitations, and sweating. Psychological signs include anxiety, panic, thought disorganization, emotional distress expressed as agitation, fatigue, impaired sleep, and impaired appetite.
+
+---
